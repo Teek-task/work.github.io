@@ -11,7 +11,7 @@
         };
 
          // window.onload = function() {
-            // window.location.href = "Localhost"; // Change this to the link you want
+            // window.location.href = "workfromatredirect"; // Change this to the link you want
         // }; 
     </script>
 </head>
